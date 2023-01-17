@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ACranston90
 - 👀 I’m interested in: website development, basic programs, and video game development.
-- 🌱 I’m currently learning: Python, HTML5, CSS3, and JavaScript.
+- 🌱 I’m currently learning: Python, HTML5, CSS3, Java, and JavaScript.
 - 💞️ I’m looking to collaborate on: basic programs and video games.
 - 📫 How to reach me: Discord @Xsnumas#8224
 
